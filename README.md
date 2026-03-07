@@ -1,2 +1,2 @@
-# NameGenerator
-Band name generator - 1/100 day with Angela Yu (Python course)
+# Course: 100 Days of Code -> Angela Yu
+(Python course)
